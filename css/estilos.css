@@ -18,7 +18,7 @@ body {
 
 /* ----- ----- HEADER ----- ----- */
 header {
-  background: url("../img/no.webp"), #6c0606;
+  background-image: url("/img/no.webp"), #6c0606;
   background-repeat: no-repeat;
   background-position: center;
   max-height: 600px; }
